@@ -1,5 +1,5 @@
 #!/bin/bash
-#start with nohup ./clipsharemac.sh hostname & 
+#start with nohup ./clipsharex.sh & 
 SYNC_INTERVAL=0.5
 
 while sleep "$SYNC_INTERVAL"; do 
