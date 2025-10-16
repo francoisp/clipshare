@@ -16,4 +16,4 @@ while sleep "$SYNC_INTERVAL"; do
         rm ~/clipxin
     fi
 done
-clipshare
+
